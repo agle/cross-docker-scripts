@@ -34,3 +34,4 @@ Multiple source files can be specified as below:
 CFILE_NAME='file1.c file2.c' ./lift.sh -b a.out
 ```
 
+Compiler flags can be set with `CFLAGS` environment variables.
